@@ -1,0 +1,24 @@
+{
+    "netflix": [
+        {
+            "name":"Kingdom",
+            "image":"https://www.iphone-droid.net/wp-content/uploads/2020/02/kingdom-season-2-netflix.jpg"
+        },
+        {
+            "name":"Larva Island",
+            "image":"https://occ-2-760-38.1.nflxso.net/art/f2fcf/2eb397be7fd4b7863dc134f9df37393a3baf2fcf.jpg"
+        },
+        {
+            "name":"Sex Education",
+            "image":"https://thethaiger.com/wp-content/uploads/2020/01/sex-education-netflix-review.jpg"
+        },
+        {
+            "name":"The Witcher",
+            "image":"https://www.afkesport.com/wp-content/uploads/2019/12/The-Witcher-Netflix.jpg"
+        },
+        {
+            "name":"Vagabond",
+            "image":"https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.beartai.com/wp-content/uploads/2019/09/Untitled-1-7.jpg"
+        }
+    ]
+}
